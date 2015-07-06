@@ -1,2 +1,2 @@
 # datasciencecoursera
-A repo for the Data Scientists Toolkit class at Coursera
+A repo for the Data Scientists Toolbox class at Coursera
